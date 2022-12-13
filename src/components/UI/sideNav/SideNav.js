@@ -36,12 +36,12 @@ const SideNav = props => {
 
 
                 <nav className="bd-links" aria-label="Main navigation">
-                    <div className="bd-toc-item">
+                    <div className="bd-toc-item  active">
                         <a className="bd-toc-link" href="/docs/4.6/getting-started/introduction/">
                             Dashboard
                         </a>
                     </div>
-                    <div className="bd-toc-item active">
+                    <div className="bd-toc-item">
                         <a className="bd-toc-link" href="/docs/4.6/getting-started/introduction/">
                             Leads
                         </a>
