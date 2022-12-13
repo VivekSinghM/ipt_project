@@ -1,0 +1,8 @@
+.tab-content .active{
+    color: black!important;
+}
+.nav-pills .active{
+    background-color: #ff3131!important;
+    color: white!important;
+    border-color: white;
+}
