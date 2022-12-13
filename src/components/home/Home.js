@@ -1,5 +1,5 @@
 import { useState } from "react";
-import BudgetInfo from "./BudgetInfo";
+import BudgetInfo from "./widgets/BudgetInfo";
 import ClientInfo from "./widgets/ClientInfo";
 import EventInfo from "./widgets/EventInfo";
 

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Popup from "./widgets/popup/Popup";
+import Popup from "./popup/Popup";
 
 const BudgetInfo = props => {
     const [collapse, setCollapse] = useState(false);

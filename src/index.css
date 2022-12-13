@@ -15,3 +15,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.st-color{
+  background-color: #ff3131;
+  color: white!important;
+  border-color: white;
+}
+.st-outline-color{
+  color: #ff3131;
+  border-color: #ff3131;
+}
+.active{
+  color: white!important;
+  border-color: white;
+}
